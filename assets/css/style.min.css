@@ -2843,7 +2843,7 @@ input[type=submit]:hover {
     width: 45px;
     height: 45px;
     line-height: 46px;
-    background: var(--color-primary);
+    background: var(--light-blue);
     color: #fff;
     text-align: center;
     text-decoration: none;
